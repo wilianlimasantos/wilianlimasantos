@@ -14,7 +14,7 @@ Para mim, o autismo não é uma limitação—é uma **feature**. Meu padrão de
 
 ---
 
-## 🏆 Technical Breakthroughs
+## 🏆 Avanços técnicos
 - **Pioneirismo:** Primeiro desenvolvedor brasileiro a estabilizar a refatoração multi-threading do ecossistema Slimefun para o **Folia**.
 - **Performance:** Redução de latência de rede de **5s para 80ms (94% de melhora)** em ambientes production-critical.
 - **Infraestrutura:** Gestão de servidores de alta performance baseados em **Xeon E5 2680 V4 e Ryzen 9950x**.
@@ -37,11 +37,6 @@ Para mim, o autismo não é uma limitação—é uma **feature**. Meu padrão de
 | **Uptime Médio (Zynox)** | 99.98% |
 | **Experiência** | 11+ Anos |
 | **Projetos Production-Ready** | 15+ |
-
----
-
-## 🏆 Conquistas de Engenharia
-![Trophies](https://github-profile-trophy.vercel.app/?username=wilianlimasantos&theme=tokyonight&no-frame=true&column=7)
 
 ---
 
