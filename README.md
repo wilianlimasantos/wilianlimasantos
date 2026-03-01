@@ -41,7 +41,7 @@ Para mim, o autismo não é uma limitação—é uma **feature**. Meu padrão de
 ---
 
 ## 🐍 Minha Jornada em Código
-![Snake animation](![Snake animation](https://raw.githubusercontent.com/wilianlimasantos/wilianlimasantos/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/wilianlimasantos/wilianlimasantos/output/github-snake-dark.svg)
 
 ---
 
