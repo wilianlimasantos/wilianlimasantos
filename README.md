@@ -41,7 +41,7 @@ Para mim, o autismo não é uma limitação—é uma **feature**. Meu padrão de
 ---
 
 ## 🏆 Conquistas de Engenharia
-![Trophies](https://github-profile-trophy.vercel.app/?username=wilianlimasantos&theme=tokyonight&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=wilianlimasantos&theme=tokyonight&no-frame=true&column=7)
 
 ---
 
