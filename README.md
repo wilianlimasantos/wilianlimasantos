@@ -7,7 +7,7 @@ Sou fascinado por lógica desde os **13 anos**, quando escrevi meu primeiro cód
 ---
 
 ## 🧠 Neuro-Engenharia: Autismo como Superpoder
-Para mim, o autismo não é uma limitação—é uma **feature**. Meu padrão de pensamento me confere:
+Para mim, o autismo não é uma limitação é uma **feature**. Meu padrão de pensamento me confere:
 - ⚡ **Hiperfoco Extremo:** Capacidade de refatorar 30 horas de trabalho em apenas 2.
 - 🎯 **Detecção de Padrões:** Previsão de bugs e falhas de rede antes mesmo do sistema entrar em produção.
 - 🛠️ **Obsessão por Otimização:** Foco total em reduzir latência e maximizar o uptime de sistemas críticos.
